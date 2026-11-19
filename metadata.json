@@ -1,0 +1,6 @@
+{
+  "name": "Intergrid IT",
+  "description": "Enterprise-grade IT Learning Management System featuring monochrome Swiss minimalism, structured engineering modules, chapter notes, knowledge checks, and verifiable attendance certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
